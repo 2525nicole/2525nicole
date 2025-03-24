@@ -11,8 +11,11 @@
 - [フィヨルドブートキャンプを卒業しました！ \- にこるの記録](https://nicole2525.hatenablog.com/entry/2024/12/12/130406)
 - [FJORD BOOT CAMP卒業式 \- Speaker Deck](https://speakerdeck.com/nicole2525/fjord-boot-campzu-ye-shi)  
 
-### Langs and Github Stats
+### 📊 Langs and Github Stats (Personal Account)
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2525nicole&layout=compact&show_icons=true&theme=dracula" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=2525nicole&theme=dracula&show_icons=ture" />
 </p>
+
+### 📈 Contributions to Company Projects
+![Contributions to Company Projects](https://ghchart.rshah.org/ayanaiijima)
