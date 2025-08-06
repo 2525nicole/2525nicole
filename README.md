@@ -5,9 +5,7 @@
 - 好きなもの🩵 猫🐈 / 日本語ラップ🎙️ / 野球⚾️
  
 ### OUT PUT
-- [経理からエンジニアにキャリアチェンジしました！ \- techtekt](https://techtekt.persol-career.co.jp/entry/member/240801_01)
 - [思い出記録サービス「Memo Recall（メモリコール）」をリリースしました！ \- にこるの記録](https://nicole2525.hatenablog.com/entry/2024/11/13/090018)
-- [JobQ部エンジニアチームのココが好き！ \#Developer＆Designer Advent Calendar 2024 \- techtekt](https://techtekt.persol-career.co.jp/entry/culture/241202_01)
 - [フィヨルドブートキャンプを卒業しました！ \- にこるの記録](https://nicole2525.hatenablog.com/entry/2024/12/12/130406)
 - [FJORD BOOT CAMP卒業式 \- Speaker Deck](https://speakerdeck.com/nicole2525/fjord-boot-campzu-ye-shi)
 - [初めてのClaude MCPサーバー設定🛠️Brave Search APIでWEB検索を行うまでの手順メモ \- にこるの記録](https://nicole2525.hatenablog.com/entry/2025/04/29/171327)
@@ -17,6 +15,3 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2525nicole&layout=compact&show_icons=true&theme=dracula" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=2525nicole&theme=dracula&show_icons=ture" />
 </p>
-
-### 📈 Contributions to Company Projects
-![Contributions to Company Projects](https://ghchart.rshah.org/ayanaiijima)
